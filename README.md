@@ -1,5 +1,4 @@
-# C-lang-practice
-Just C Programming language Practice Project
+# C Programming Language Practice Project 
     
-- Hello.c : Pritnt Hello World..
+- Hello.c : Print Hello World..
     
